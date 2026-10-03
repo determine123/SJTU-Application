@@ -23,4 +23,4 @@ To be continued.
 
 ##### 就业：
 
-To be continued.
+  - [26级-determine-AI方向就业](grad-application/mechanical-and-energy-engineering/[CN]-26-determine-机械硕-AI方向就业.md)
